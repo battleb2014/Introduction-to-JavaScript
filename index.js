@@ -229,7 +229,6 @@ function miles(km){
 
 console.log(miles(5));
 
-
 //Task 5b - Feet to CM
 /*
 Using the feet function below do the following:
